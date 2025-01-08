@@ -16,7 +16,8 @@ export const List = () => {
     }
 
     return (
-        <div className="container rounded">
+        <div className="container ">
+            <h1>Todo List</h1>
             <ul>
                 <input
                 type="text"
